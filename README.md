@@ -23,3 +23,8 @@
 ### skip_gram.simple
         第一次作业，将cbow模型转为skip_gram模型
 	    可运行版本
+
+
+### practice
+        两次课上练习题
+        可运行的py文件
